@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to kwallet</h1>
         </header>
         <p className="App-intro">
-          dynamic wallet for the future generation
+          dynamic wallet for the Future Generation
         </p>
       </div>
     );
