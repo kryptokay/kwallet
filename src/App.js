@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import gof from './gof image.jpg';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <p className="App-intro">
           dynamic wallet for the Future Generation
         </p>
+        <img class="gof" src={gof} alt="gof" />
       </div>
     );
   }
