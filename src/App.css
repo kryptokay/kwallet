@@ -17,6 +17,9 @@
 .App-title {
   font-size: 1.5em;
 }
+.container {
+  display: flex;
+}
 
 .App-intro {
   font-size: large;
@@ -30,3 +33,6 @@
 .App .gof{
   width: 100%;
 }
+.item {
+  flex: 1;
+  }

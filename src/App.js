@@ -14,9 +14,21 @@ class App extends Component {
         <p className="App-intro">
           dynamic wallet for the Future Generation
         </p>
+        <div className="container">
+    <div className="item"><h2>Black Mirror</h2></div>
+    <div className="item"><h2>Breaking Bad</h2></div>
+    <div className="item"><h2>Death Note</h2></div>
+    </div>
+    <div className="container">
+    <div className="item"><h2>Gmae Of Thrones</h2></div>
+    <div className="item"><h2>The Walking Dead</h2></div>
+    <div className="item"><h2>The Wire</h2></div>
+    </div>
         <img class="gof" src={gof} alt="gof" />
       </div>
     );
+    
+
   }
 }
 
