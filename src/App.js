@@ -33,7 +33,7 @@ class App extends Component {
         <div className="container">
           <div className="item">
             <img class="GOT" src={GOT} alt="GOT" />
-            <h2>Gmae Of Thrones</h2></div>
+            <h2>Game Of Thrones</h2></div>
           <div className="item">
             <img class="TW" src={TW} alt="TW" />
             <h2>The Walking Dead</h2></div>
